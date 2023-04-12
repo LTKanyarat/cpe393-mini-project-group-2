@@ -1,0 +1,24 @@
+{
+    "name": "Nazo #10",
+    "description": "สีมงคลในวันเสาร์ ยิ่งตั้งเป็นรูปหน้าจอวันที่ 1 และวันที่ 16 จะรับทรัพย์ได้แบงค์เทาเต็มๆ",
+    "image": "ipfs://QmRJUKHe1D8EPeeTHkKav86sJnSQ9rwWGYqosty79QjLK5",
+    "attributes": [
+      {
+        "trait_type": "Body color",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "green"
+      },
+      {
+        "trait_type": "Background color",
+        "value": "black"
+      },
+      {
+        "trait_type": "Posture",
+        "value": "lay down"
+      }
+
+    ]
+  }

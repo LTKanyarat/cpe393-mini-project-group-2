@@ -1,0 +1,24 @@
+{
+    "name": "Nazo #19",
+    "description": "สีมงคลในวันเสาร์ ถ้าคนวันเสาร์ใช้ชีวิตคุณจะไม่มีการพบเจออุปสรรคในชีวิต ใช้ชีวิตสบายๆ",
+    "image": "ipfs://QmRfgTwJ8TJvNQMbbVE7WKbNS2MYgVKoTtHoCGmMF3XnQt",
+    "attributes": [
+      {
+        "trait_type": "Body color",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "red"
+      },
+      {
+        "trait_type": "Background color",
+        "value": "popsky"
+      },
+      {
+        "trait_type": "Posture",
+        "value": "float"
+      }
+
+    ]
+  }

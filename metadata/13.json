@@ -1,0 +1,24 @@
+{
+    "name": "Nazo #13",
+    "description": "สีมงคลในวันอาทิตย์ โดยสีจากน้องบึ้งจะเน้นการงานและสีพื้นหลังจะช่วยเน้นเรื่องโชค",
+    "image": "ipfs://Qmew4ivFuY1RhUSB7z5i2cr1yGL7Fc3H7YjnSdvTycAitn",
+    "attributes": [
+      {
+        "trait_type": "Body color",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "light blue"
+      },
+      {
+        "trait_type": "Background color",
+        "value": "baby green"
+      },
+      {
+        "trait_type": "Posture",
+        "value": "float"
+      }
+
+    ]
+  }

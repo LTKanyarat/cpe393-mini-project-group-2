@@ -1,0 +1,24 @@
+{
+    "name": "Nazo #16",
+    "description": "สีมงคลในวันเสาร์ เน้นเรื่องการให้ผู้ใหญ่เอ็นดู ถึงรูปจะชื่อลูกท้อ แต่เราต้องไม่ท้อ",
+    "image": "ipfs://QmXCn7cVTJJYGWNL616d6mHEjwKjxN827GGuY3STh4qt6K",
+    "attributes": [
+      {
+        "trait_type": "Body color",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "black"
+      },
+      {
+        "trait_type": "Background color",
+        "value": "black"
+      },
+      {
+        "trait_type": "Posture",
+        "value": "stand"
+      }
+
+    ]
+  }

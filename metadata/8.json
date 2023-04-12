@@ -1,0 +1,24 @@
+{
+    "name": "Nazo #8",
+    "description": "สีมงคลในวันอาทิตย์ เสริมดวงด้านการงาน ตาสีฟ้าบ่งบอกถึงความก้าวหน้าในหน้าที่การงาน บอสรักบอสหลง",
+    "image": "ipfs://QmWGwx1sP4jFjJmUxRDx89VGriqpfTE2zfMTYQxLuhzdjA",
+    "attributes": [
+      {
+        "trait_type": "Body color",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Background color",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Posture",
+        "value": "lay down"
+      }
+
+    ]
+  }

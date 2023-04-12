@@ -1,0 +1,24 @@
+{
+    "name": "Nazo #7",
+    "description": "สีมงคลในวันอาทิจย์ เสริมดวงด้านการงาน แมวในท่านอนแปลว่างานราบรื่น ไม่วุ่นวาย",
+    "image": "ipfs://QmbP1bcK3egQoQsVyXeMvxCPDgQmmAhoavWbcXQ1xPxiGE",
+    "attributes": [
+      {
+        "trait_type": "Body color",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Background color",
+        "value": "white"
+      },
+      {
+        "trait_type": "Posture",
+        "value": "lay down"
+      }
+
+    ]
+  }

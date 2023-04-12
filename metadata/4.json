@@ -1,0 +1,24 @@
+{
+    "name": "Nazo #4",
+    "description": "สีมงคลในวันจันทร์ เพื่อเพิ่มความเป็นสิริมงคลในชีวิต เน้นเรื่อง เงินทอง ตาสีฟ้าเสริมดวงด้านผู้ใหญ่รัก อุปถัมภ์",
+    "image": "ipfs://QmUSFHiqXKyLTnwVk92sWFbsDkPcf92U9Lpcn3W9RkEZqN",
+    "attributes": [
+      {
+        "trait_type": "Body color",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Background color",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Posture",
+        "value": "sit"
+      }
+
+    ]
+  }

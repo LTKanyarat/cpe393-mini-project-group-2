@@ -1,0 +1,24 @@
+{
+    "name": "Nazo #15",
+    "description": "เขียวอื้อจะเน้นเรื่องความรักแบบเน้นๆ ใครต้องการใครสักคนมาดูเเล แนะนำเขียวอื้อ",
+    "image": "ipfs://QmYf1BWMN8pCTnMM3BWiqHVUP7UReDJM6Wek9Yi4aW2HEG",
+    "attributes": [
+      {
+        "trait_type": "Body color",
+        "value": "light green"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "dark green"
+      },
+      {
+        "trait_type": "Background color",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Posture",
+        "value": "stand"
+      }
+
+    ]
+  }

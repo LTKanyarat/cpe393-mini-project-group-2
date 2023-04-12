@@ -1,0 +1,24 @@
+{
+    "name": "Nazo #11",
+    "description": "สัตว์มงคลสำหรับคนเกิดวันพุธ โชคปัง ปัง ปัง !",
+    "image": "ipfs://Qmd6BxoQtmvyT4meGLU8g3fn49YvV133rTmnq5zQNKEpmQ",
+    "attributes": [
+      {
+        "trait_type": "Body color",
+        "value": "white"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "black-white"
+      },
+      {
+        "trait_type": "Background color",
+        "value": "pink pop"
+      },
+      {
+        "trait_type": "Posture",
+        "value": "sit"
+      }
+
+    ]
+  }

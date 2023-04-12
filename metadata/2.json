@@ -1,0 +1,24 @@
+{
+    "name": "Nazo #2",
+    "description": "สีมงคลในวันเสาร์ เพื่อเพิ่มความเป็นสิริมงคลในชีวิต เน้นเรื่อง ความโชคดีและการงาน",
+    "image": "ipfs://QmSqHV1DdAY9GwijttQJarGwU4VmBppJhJAwiDkSGkXTnb",
+    "attributes": [
+      {
+        "trait_type": "Body color",
+        "value": "black"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "black"
+      },
+      {
+        "trait_type": "Background color",
+        "value": "white"
+      },
+      {
+        "trait_type": "Posture",
+        "value": "sit"
+      }
+
+    ]
+  }

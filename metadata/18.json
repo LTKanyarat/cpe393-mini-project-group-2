@@ -1,0 +1,24 @@
+{
+    "name": "Nazo #18",
+    "description": "สีมงคลในวันจันทร์ เน้นส่งเสน่ห์ให้ทุกคนรับรู้ รับโชคตลอดไปในทุกวันจันทร์ วันแรกของสัปดาห์",
+    "image": "ipfs://QmYioFmGsRCT3kW6DLJAHXXjJ1wpytwjAgoYRvX2LrVekE",
+    "attributes": [
+      {
+        "trait_type": "Body color",
+        "value": "nude"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "dark blue"
+      },
+      {
+        "trait_type": "Background color",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Posture",
+        "value": "face"
+      }
+
+    ]
+  }

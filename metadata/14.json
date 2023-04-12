@@ -1,0 +1,24 @@
+{
+    "name": "Nazo #14",
+    "description": "สีมงคลในวันอังคาร เด่นทั้งเรื่องโชคการงานและความรัก สายมูอย่าพลาด !",
+    "image": "ipfs://QmRMHdBEscsYq45c8VWvDduU2ySFNJe5U59wupNkFDNToR",
+    "attributes": [
+      {
+        "trait_type": "Body color",
+        "value": "baby-pinkpuple"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "light blue"
+      },
+      {
+        "trait_type": "Background color",
+        "value": "purple pastel"
+      },
+      {
+        "trait_type": "Posture",
+        "value": "float"
+      }
+
+    ]
+  }

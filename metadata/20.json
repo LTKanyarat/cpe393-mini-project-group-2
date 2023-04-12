@@ -1,0 +1,24 @@
+{
+    "name": "Nazo #20",
+    "description": "มงคลกับทุกวัน ยกเว้นวันเสาร์ คนเกิดวันเสาร์ห้ามใช้ เด็ดขาด ! ",
+    "image": "ipfs://QmaRSs4597NRVoeM2yTRX9WbQRuNEDPvewkNbrMSWA83Ff",
+    "attributes": [
+      {
+        "trait_type": "Body color",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Background color",
+        "value": "khaki"
+      },
+      {
+        "trait_type": "Posture",
+        "value": "stand"
+      }
+
+    ]
+  }

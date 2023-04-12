@@ -1,0 +1,24 @@
+{
+    "name": "Nazo #9",
+    "description": "สีมงคลในวันจันทร์และวันพุธ คนเห็นคนเมตตา เสริมดวงความรัก แต่ต่อให้สีมงคลแค่ไหน ถ้าเขาไม่รัก ก็คือไม่รัก",
+    "image": "ipfs://QmR7tWcgkTbuUmHCPWKZHwA2uEc2fAv4kkoCAPERv6wzny",
+    "attributes": [
+      {
+        "trait_type": "Body color",
+        "value": "black"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "black"
+      },
+      {
+        "trait_type": "Background color",
+        "value": "green"
+      },
+      {
+        "trait_type": "Posture",
+        "value": "lay down"
+      }
+
+    ]
+  }

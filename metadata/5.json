@@ -1,0 +1,24 @@
+{
+    "name": "Nazo #5",
+    "description": "สีมงคลในวันอาทิตย์ เพื่อดวงด้านความรัก แค่มีรูปนี้ก็ไม่ต้องต่อคิวพระแม่แล้ว",
+    "image": "ipfs://QmUGVJYM7e2o8jJFxvE2dCzhYXPW9yqxdQaD5Kq2Neks5c",
+    "attributes": [
+      {
+        "trait_type": "Body color",
+        "value": "black"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "green"
+      },
+      {
+        "trait_type": "Background color",
+        "value": "green"
+      },
+      {
+        "trait_type": "Posture",
+        "value": "sit"
+      }
+
+    ]
+  }
